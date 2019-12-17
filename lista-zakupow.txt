@@ -1,3 +1,4 @@
 Jajka	8.00
 Maslo	5.00
 Chleb	3.00
+Ry¿		3.20
